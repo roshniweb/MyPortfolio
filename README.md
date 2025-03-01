@@ -18,13 +18,11 @@
             </ul>
         </nav>
     </header>
-    
     <section class="intro">
         <h1>Welcome to My Website</h1>
-        <p>Hi, I'm [Your Name]. This is my personal website where you can find my projects and resume.</p>
+        <p>Hi, I'm Roshni. This is my personal website where you can find my projects and resume.</p>
         <a href="resume.pdf" target="_blank" class="resume-btn">View My Resume</a>
     </section>
-    
     <script>
         function logout() {
             window.location.href = "exit.html";
