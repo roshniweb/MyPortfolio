@@ -23,10 +23,11 @@
         <p>Hi, I'm Roshni. This is my personal website where you can find my projects and resume.</p>
         <a href="resume.pdf" target="_blank" class="resume-btn">View My Resume</a>
     </section>
-    <script>
+    
+<script>
         function logout() {
             window.location.href = "exit.html";
         }
-    </script>
+</script>
 </body>
 </html>
